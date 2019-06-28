@@ -1,6 +1,6 @@
 ---
 layout: default
-img: ucanstock-responsive-template.png
+img: ucanstock.png
 category: Services
 title: 유캔스톡<br><a href="https://www.ucanstock.com" title="유캔스톡" target="_blank">U Can Stock</a>
 description: |
